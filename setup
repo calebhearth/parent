@@ -1,0 +1,2 @@
+cd child
+ln -s git .git
